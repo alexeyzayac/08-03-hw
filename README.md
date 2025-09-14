@@ -81,4 +81,3 @@
 
 [файл gitlab-ci.yml для задания 3](.gitlab-ci_Z3.yml)
 
-![img](img/screenshot_4.png)
