@@ -54,6 +54,8 @@
 
 #### Результат:
 
+[файл gitlab-ci.yml](.gitlab-ci.yml)
+
 ![img](img/screenshot_3.png)
 
 ---
